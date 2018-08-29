@@ -1,0 +1,3 @@
+# Test nowe
+
+Learning GIT
